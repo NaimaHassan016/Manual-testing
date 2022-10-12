@@ -1,6 +1,6 @@
 # Manual-testing
 
-#Test Cases
+#Test Case of Pickaboo Login and Register Page
 - Writing test cases
 - Creating bug report
 - Calculating test metrics
