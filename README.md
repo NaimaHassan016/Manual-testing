@@ -12,4 +12,4 @@
 - PUT Method: Update Student Details 
 - GET Method: Get Specific Student Details
 - Delete Method: Delete Student
-Report Generate with Newman
+- Report Generate with Newman
